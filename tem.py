@@ -1,0 +1,7 @@
+print("Bca  -1")
+print("Bca  -1")
+print("Bca  -1")
+print("Bca  -1")
+print("Bca  -1")
+Print("Bca  -1")
+print("Bca  -1")
